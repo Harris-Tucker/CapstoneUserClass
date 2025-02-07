@@ -1,13 +1,13 @@
 Package: CapstoneUserClass
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Cell Phone User Behavior Class Analysis
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Tucker Harris
+Maintainer: The package maintainer <https://github.com/Harris-Tucker/CapstoneUserClass>
+Description: Mock Data scraped from Kaggle about Cell Phone Usage. Takes App Usage Time and classifies users based on Cell Phone Usage on a scale from 1-5.
+License: N/A
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Harris-Tucker/CapstoneUserClass
 BugReports: https://github.com/Harris-Tucker/CapstoneUserClass/issues
+RoxygenNote: 7.2.3
